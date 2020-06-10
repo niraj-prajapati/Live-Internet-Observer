@@ -1,0 +1,3 @@
+rootProject.name='Internet Observer Demo'
+include ':app'
+include ':internetobserve'
