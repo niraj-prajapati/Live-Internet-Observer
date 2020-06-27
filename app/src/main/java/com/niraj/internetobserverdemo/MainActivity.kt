@@ -1,10 +1,11 @@
-package com.nandroidex.internetobserverdemo
+package com.niraj.internetobserverdemo
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.Observer
 import com.nandroidex.internetobserve.NetworkConnectivityObserver
+import com.nandroidex.internetobserverdemo.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

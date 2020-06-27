@@ -1,4 +1,4 @@
-package com.nandroidex.internetobserve
+package com.niraj.internetobserverdemo
 
 import org.junit.Test
 

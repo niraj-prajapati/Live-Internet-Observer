@@ -1,4 +1,4 @@
-package com.nandroidex.internetobserverdemo
+package com.niraj.internetobserverdemo
 
 import android.app.Application
 import com.nandroidex.internetobserve.NetworkConnectivityObserver

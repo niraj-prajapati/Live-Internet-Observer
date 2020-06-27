@@ -1,4 +1,4 @@
-package com.nandroidex.internetobserve
+package com.niraj.internetobserve
 
 import android.app.Application
 import android.content.BroadcastReceiver
